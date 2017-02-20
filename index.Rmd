@@ -18,12 +18,12 @@ for each level and a very brief introduction to plotting.
 
 ## Chapters
 
-1. [Before we start](00-before-we-start.md)
-2. [Introduction to R](01-intro-to-R.md)
-3. [Starting with data](02-starting-with-data.md)
-4. [Aggregating and analyzing data with dplyr](03-dplyr.md)
-5. [Data visualization with ggplot2](04-visualization-ggplot2.md)
-6. [R and Databases](05-r-and-databases.md)
+1. [Before we start](00-before-we-start.Rmd)
+2. [Introduction to R](01-intro-to-R.Rmd)
+3. [Starting with data](02-starting-with-data.Rmd)
+4. [Aggregating and analyzing data with dplyr](03-dplyr.Rmd)
+5. [Data visualization with ggplot2](04-visualization-ggplot2.Rmd)
+6. [R and Databases](05-r-and-databases.Rmd)
 
 
 
