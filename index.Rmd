@@ -3,15 +3,6 @@ title: "Data Carpentry: R for data analysis and visualization of Ecological Data
 author: François Michonneau & Auriel Fournier (Lesson Maintainers)
 ---
 
-<p></p>
-
-<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
-![](./img/DC_logo_vision.png)
-</div>
-
-<p></p>
-
-
 Data Carpentry's aim is to teach researchers basic concepts, skills,
 and tools for working with data so that they can get more done in less
 time, and with less pain. The lessons below were designed for those interested
@@ -27,12 +18,12 @@ for each level and a very brief introduction to plotting.
 
 ## Chapters
 
-1. [Before we start](00-before-we-start.html)
-2. [Introduction to R](01-intro-to-R.html)
-3. [Starting with data](02-starting-with-data.html)
-4. [Aggregating and analyzing data with dplyr](03-dplyr.html)
-5. [Data visualization with ggplot2](04-visualization-ggplot2.html)
-6. [R and Databases](05-r-and-databases.html)
+1. [Before we start](00-before-we-start.md)
+2. [Introduction to R](01-intro-to-R.md)
+3. [Starting with data](02-starting-with-data.md)
+4. [Aggregating and analyzing data with dplyr](03-dplyr.md)
+5. [Data visualization with ggplot2](04-visualization-ggplot2.md)
+6. [R and Databases](05-r-and-databases.md)
 
 
 
