@@ -17,15 +17,15 @@ for each level and a very brief introduction to plotting.
 
 ## Topics
 
-* [Before we start](00-before-we-start.html)
-* [Introduction to R](01-intro-to-R.html)
-* [Starting with data](02-starting-with-data.html)
-* [The `data.frame` class](03-data-frames.html)
-* [Aggregating and analyzing data with dplyr](04-dplyr.html)
+* [Before we start](00-before-we-start.md)
+* [Introduction to R](01-intro-to-R.md)
+* [Starting with data](02-starting-with-data.md)
+* [Aggregating and analyzing data with dplyr](03-dplyr.md)
+* [Visualizing data with ggplot2](04-visualization-ggplot2.md)
 
 ## Other resources
 
-* [Motivation](motivation.html)
+* [Motivation](motivation.md)
 
 ## Organization of the repository
 
