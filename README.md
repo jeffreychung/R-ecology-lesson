@@ -23,10 +23,6 @@ for each level and a very brief introduction to plotting.
 * [Aggregating and analyzing data with dplyr](03-dplyr.Rmd)
 * [Visualizing data with ggplot2](04-visualization-ggplot2.Rmd)
 
-## Other resources
-
-* [Motivation](motivation.Rmd)
-
 ## Organization of the repository
 
 The lessons are written in Rmarkdown. A Makefile generates an html page for each
